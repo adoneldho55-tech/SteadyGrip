@@ -1,6 +1,6 @@
 # SteadyGrip
 
-publishDate: yyy-mm-dd
+publishDate: 2026-05-21
 
 title: SteadyGrip: An intelligent Tremor-Cancelling Utensil System
 
@@ -41,12 +41,6 @@ Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangea
 </p>  
 
 ### Videos
-
-
-
-https://github.com/user-attachments/assets/b0fa8892-a439-42c6-96db-39a12a9a2d0c
-
-
 <video controls width="100%">
   <source src="[https://github.com/user-attachments/assets/8a228b33-2368-43c4-93f1-b96243c0cb13](https://github.com/user-attachments/assets/b0fa8892-a439-42c6-96db-39a12a9a2d0c)" type="video/mp4">
 </video>
@@ -150,11 +144,13 @@ The project uses cost-effective components, making it suitable for accessible he
 
 
 ## File Structure
-  ├─ file1.py
-  ├─ folder/
-  │   └─ file2.jpg
-  └─ README.md
+  ├─ cover.png
+  ├─ demo.mp4
+  └─ myosa-steadygrip.md
 
 ## License
+MIT License
+
 
 ## Contribution Notes
+Contributions and improvements are welcome.

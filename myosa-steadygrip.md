@@ -31,8 +31,6 @@ Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangea
 
 ---
 ## Demo/Examples
-
-
 ### Images
 <p align="center">
   <img  src="https://github.com/user-attachments/assets/b2ef571d-59d5-4178-a58a-7834dca76737" width="800"><br/>
@@ -41,9 +39,7 @@ Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangea
 
 ### Videos
 
-<video width="100%" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+[Watch Demo Video](./demo.mp4)
 
 ---
 ## Features (Detailed)

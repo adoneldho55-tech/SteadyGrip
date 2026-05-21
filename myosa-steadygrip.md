@@ -1,12 +1,11 @@
 # SteadyGrip
 
-publishDate: 2026-05-21
-
-title: SteadyGrip: An intelligent Tremor-Cancelling Utensil System
-
-excerpt:  SteadyGrip is an ESP32-based smart stabilization system designed to help individuals with Parkinson’s disease reduce hand tremors during daily activities such as eating and writing.
-
-image:
+| Field        | Value |
+|--------------|-------|
+| publishDate  | 2026-05-21 |
+| title        | SteadyGrip: An intelligent Tremor-Cancelling Utensil System |
+| excerpt      | SteadyGrip is an ESP32-based smart stabilization system designed to help individuals with Parkinson’s disease reduce hand tremors during daily activities such as eating and writing. |
+image: | cover.jpg |
 <p align="center">
   <img  src="https://github.com/user-attachments/assets/62fe7e94-d88b-46b5-a358-229f5dee625a" width="800"><br/>
   <i>Cover image</i>
@@ -144,10 +143,14 @@ The project uses cost-effective components, making it suitable for accessible he
 
 
 ## File Structure
-  ├─ cover.png
-  ├─ demo.mp4
-  └─ myosa-steadygrip.md
-
+```
+├─ cover.png
+├─ demo.mp4
+└─ myosa-steadygrip.md
+```
+  
+  
+  
 ## License
 MIT License
 

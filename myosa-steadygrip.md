@@ -19,7 +19,7 @@ We sincerely thank our faculty mentor and the institution for supporting the dev
 ## Overview
 SteadyGrip is a smart tremor-cancelling assistive device developed to help individuals affected by Parkinson’s disease perform daily activities with improved stability and confidence.
 The system uses an MPU6050 accelerometer and gyroscope sensor to detect involuntary hand tremors in real time. An ESP32 microcontroller processes the motion data using a complementary filter algorithm and controls dual servo motors that generate opposite corrective movement to stabilize the attached utensil.
-Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangeable attachments such as spoons, forks, knives, and pens, making it a flexible assistive platform.
+Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangeable attachments such as spoons, and forks making it a flexible assistive platform.
 
 **Key Features**
 * Real-time tremor detection using MPU6050  
@@ -68,8 +68,6 @@ The project combines accelerometer and gyroscope data using a complementary filt
 The system supports multiple attachments such as:
 - Spoon
 - Fork
-- Knife
-- Pen
 This makes the device useful for different daily activities.
 
 ### 7. Lightweight and Portable Design
@@ -88,7 +86,7 @@ The project uses cost-effective components, making it suitable for accessible he
 ## Usage instructions
 1. Power ON the SteadyGrip device.
 2. Keep the device still during gyro calibration.
-3. Attach the required utensil (spoon/fork/pen).
+3. Attach the required utensil (spoon/fork).
 4. Hold the device naturally.
 5. MPU6050 continuously detects tremor movement.
 6. ESP32 processes motion data in real time.

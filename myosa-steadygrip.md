@@ -147,6 +147,7 @@ The project uses cost-effective components, making it suitable for accessible he
 ```
 ├─ cover.png
 ├─ demo.mp4
+├─ block-diagram.jpg
 └─ myosa-steadygrip.md
 ```
   

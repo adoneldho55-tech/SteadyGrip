@@ -42,9 +42,16 @@ Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangea
   <i>SteadyGrip: An Intelligent Tremor-Canceling Utensil System</i>
 </p>  
 
-
-
 ### Videos
+
+
+<video controls width="100%">
+  <source src="https://github.com/user-attachments/assets/8a228b33-2368-43c4-93f1-b96243c0cb13" type="video/mp4"
+    </video>
+
+
+
+
 
 ---
 ## Features (Detailed)

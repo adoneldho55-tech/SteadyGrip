@@ -41,10 +41,9 @@ Unlike traditional stabilizing spoons, SteadyGrip supports multiple interchangea
 
 ### Videos
 
-<video controls width="100%">
-  <source src="[https://github.com/user-attachments/assets/8a228b33-2368-43c4-93f1-b96243c0cb13](https://github.com/user-attachments/assets/b0fa8892-a439-42c6-96db-39a12a9a2d0c)" type="video/mp4">
+<video width="600" controls>
+  <source src="./demo.mp4" type="video/mp4">
 </video>
-
 ---
 ## Features (Detailed)
 ### 1. Real-Time Tremor Detection

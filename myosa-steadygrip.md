@@ -12,8 +12,6 @@ image:
   <i>Cover image</i>
 </p>    
 
-tags:
-
 ---
 ## Acknowledgements
 We sincerely thank our faculty mentor and the institution for supporting the development of this assistive healthcare project. Special appreciation goes to the MYOSA Event 5.0 platform for encouraging innovative embedded system solutions focused on real-world problems

@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/46a4362b-3371-434a-a25d-34d2c46ee510
-
 # SteadyGrip
 
 publishDate: yyy-mm-dd
